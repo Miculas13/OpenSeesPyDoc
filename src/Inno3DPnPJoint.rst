@@ -19,7 +19,10 @@ This command is used to construct a three-dimensional beam-column-joint element 
 .. image:: /_static/I3DJ_allSprings_001.png
 
 
-.. References::
+.. seealso::
+
+	More information available in the following reference:
+
 
    #. C.V. Miculaş, Innovative plug and play joints for hybrid tubular constructions (Ph.D. thesis), University of Coimbra, Portugal, 2023, URL: https://estudogeral.uc.pt/handle/10316/110990.
    
