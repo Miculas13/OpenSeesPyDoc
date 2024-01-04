@@ -16,9 +16,6 @@ This command is used to construct a three-dimensional beam-column-joint element 
    ===================================   ===========================================================================
 
 
-.. image:: /_static/I3DJ_allSprings_001.png
-
-
 .. seealso::
 
 	More information available in the following reference:
