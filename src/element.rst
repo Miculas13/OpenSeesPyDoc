@@ -107,6 +107,7 @@ Joint Elements
 #. :doc:`beamColumnJoint`
 #. :doc:`ElasticTubularJoint`
 #. :doc:`Joint2D`
+#. :doc:`Inno3DPnPJoint`
 
 
 .. toctree::
@@ -116,6 +117,7 @@ Joint Elements
    beamColumnJoint
    ElasticTubularJoint
    Joint2D
+   Inno3DPnPJoint
 
 Link Elements
 -------------
